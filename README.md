@@ -172,50 +172,50 @@
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **Protocol** | [Protocol_Tutorial.md](./Protocol_Tutorial.md) | 临床试验方案，定义试验怎么做 |
-| **SAP** | [SAP_Tutorial.md](./SAP_Tutorial.md) | 统计分析计划，定义数据怎么分析 |
+| **Protocol** | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) | 临床试验方案，定义试验怎么做 |
+| **SAP** | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) | 统计分析计划，定义数据怎么分析 |
 
 ### 第二阶段：数据采集
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **整体流程** | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) | 新药研发全景概述 |
+| **整体流程** | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) | 新药研发全景概述 |
 
 ### 第三阶段：SDTM 标准化
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **SDTM 基础** | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) | SDTM/ADaM 转换核心教程 |
-| **SDTM 各域** | [SDTM_Domain_Guide.md](./SDTM_Domain_Guide.md) | DM、VS、AE 等域的详细字段 |
-| **aCRF** | [aCRF_Guide.md](./aCRF_Guide.md) | 带注释病例报告表指南 |
-| **Define.xml** | [Define_XML_Guide.md](./Define_XML_Guide.md) | 数据定义文件指南 |
-| **SDRG** | [Reviewers_Guide.md](./Reviewers_Guide.md) | SDTM 审评员指南 |
-| **STF** | [STF_Guide.md](./STF_Guide.md) | Study Tagging File 指南 |
+| **SDTM 基础** | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) | SDTM/ADaM 转换核心教程 |
+| **SDTM 各域** | [SDTM_Domain_Guide.md](./docs/SDTM_Domain_Guide.md) | DM、VS、AE 等域的详细字段 |
+| **aCRF** | [aCRF_Guide.md](./docs/aCRF_Guide.md) | 带注释病例报告表指南 |
+| **Define.xml** | [Define_XML_Guide.md](./docs/Define_XML_Guide.md) | 数据定义文件指南 |
+| **SDRG** | [Reviewers_Guide.md](./docs/Reviewers_Guide.md) | SDTM 审评员指南 |
+| **STF** | [STF_Guide.md](./docs/STF_Guide.md) | Study Tagging File 指南 |
 
 ### 第四阶段：ADaM 分析数据
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **ADaM 完整指南** | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) | ADSL、BDS、OCCDS 详解 |
-| **Define.xml** | [Define_XML_Guide.md](./Define_XML_Guide.md) | ADaM 数据定义文件 |
-| **ADRG** | [Reviewers_Guide.md](./Reviewers_Guide.md) | ADaM 审评员指南 |
-| **ARM** | [ARM_Guide.md](./ARM_Guide.md) | 分析结果元数据（可选） |
+| **ADaM 完整指南** | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) | ADSL、BDS、OCCDS 详解 |
+| **Define.xml** | [Define_XML_Guide.md](./docs/Define_XML_Guide.md) | ADaM 数据定义文件 |
+| **ADRG** | [Reviewers_Guide.md](./docs/Reviewers_Guide.md) | ADaM 审评员指南 |
+| **ARM** | [ARM_Guide.md](./docs/ARM_Guide.md) | 分析结果元数据（可选） |
 
 ### 第五阶段：统计分析与报告
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **分析程序** | [Analysis_Programs_Guide.md](./Analysis_Programs_Guide.md) | SAS/R 程序提交指南 |
-| **CSR 与 TLFs** | [CSR_TLFs_Guide.md](./CSR_TLFs_Guide.md) | 临床研究报告与统计输出 |
+| **分析程序** | [Analysis_Programs_Guide.md](./docs/Analysis_Programs_Guide.md) | SAS/R 程序提交指南 |
+| **CSR 与 TLFs** | [CSR_TLFs_Guide.md](./docs/CSR_TLFs_Guide.md) | 临床研究报告与统计输出 |
 
 ### 第六阶段：药监局提交
 
 | 环节 | 文档 | 说明 |
 |-----|------|------|
-| **提交包总览** | [Submission_Package_Guide.md](./Submission_Package_Guide.md) | 提交包完整结构与清单 |
-| **eCTD 格式** | [eCTD_Guide.md](./eCTD_Guide.md) | 电子通用技术文档格式 |
-| **BIMO 数据** | [BIMO_Data_Guide.md](./BIMO_Data_Guide.md) | 现场核查支持数据 |
-| **STF** | [STF_Guide.md](./STF_Guide.md) | eCTD 节点元数据标签 |
+| **提交包总览** | [Submission_Package_Guide.md](./docs/Submission_Package_Guide.md) | 提交包完整结构与清单 |
+| **eCTD 格式** | [eCTD_Guide.md](./docs/eCTD_Guide.md) | 电子通用技术文档格式 |
+| **BIMO 数据** | [BIMO_Data_Guide.md](./docs/BIMO_Data_Guide.md) | 现场核查支持数据 |
+| **STF** | [STF_Guide.md](./docs/STF_Guide.md) | eCTD 节点元数据标签 |
 
 ---
 
@@ -225,27 +225,27 @@
 
 | 序号 | 文档 | 主题 | 阅读时间 |
 |:---:|------|------|:-------:|
-| 1 | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) | 新药研发全景概述 | 30分钟 |
-| 2 | [Protocol_Tutorial.md](./Protocol_Tutorial.md) | 临床试验方案（Protocol） | 45分钟 |
-| 3 | [SAP_Tutorial.md](./SAP_Tutorial.md) | 统计分析计划（SAP） | 45分钟 |
-| 4 | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) | SDTM/ADaM 数据转换 | 60分钟 |
-| 5 | [SDTM_Domain_Guide.md](./SDTM_Domain_Guide.md) | SDTM 各域详解 | 45分钟 |
-| 6 | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) | ADaM 分析数据模型 | 90分钟 |
-| 7 | [CSR_TLFs_Guide.md](./CSR_TLFs_Guide.md) | 临床研究报告与 TLFs | 30分钟 |
-| 8 | [Submission_Package_Guide.md](./Submission_Package_Guide.md) | 提交包完整指南 | 30分钟 |
+| 1 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) | 新药研发全景概述 | 30分钟 |
+| 2 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) | 临床试验方案（Protocol） | 45分钟 |
+| 3 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) | 统计分析计划（SAP） | 45分钟 |
+| 4 | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) | SDTM/ADaM 数据转换 | 60分钟 |
+| 5 | [SDTM_Domain_Guide.md](./docs/SDTM_Domain_Guide.md) | SDTM 各域详解 | 45分钟 |
+| 6 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) | ADaM 分析数据模型 | 90分钟 |
+| 7 | [CSR_TLFs_Guide.md](./docs/CSR_TLFs_Guide.md) | 临床研究报告与 TLFs | 30分钟 |
+| 8 | [Submission_Package_Guide.md](./docs/Submission_Package_Guide.md) | 提交包完整指南 | 30分钟 |
 
 ### 专题文档
 
 | 文档 | 主题 | 说明 |
 |------|------|------|
-| [Define_XML_Guide.md](./Define_XML_Guide.md) | Define.xml | 数据定义文件详解 |
-| [eCTD_Guide.md](./eCTD_Guide.md) | eCTD | 电子通用技术文档 |
-| [Reviewers_Guide.md](./Reviewers_Guide.md) | SDRG/ADRG | 审评员指南编写 |
-| [aCRF_Guide.md](./aCRF_Guide.md) | aCRF | 带注释病例报告表 |
-| [STF_Guide.md](./STF_Guide.md) | STF | Study Tagging File |
-| [BIMO_Data_Guide.md](./BIMO_Data_Guide.md) | BIMO | 生物研究监督数据 |
-| [ARM_Guide.md](./ARM_Guide.md) | ARM | 分析结果元数据 |
-| [Analysis_Programs_Guide.md](./Analysis_Programs_Guide.md) | 分析程序 | SAS/R 程序提交 |
+| [Define_XML_Guide.md](./docs/Define_XML_Guide.md) | Define.xml | 数据定义文件详解 |
+| [eCTD_Guide.md](./docs/eCTD_Guide.md) | eCTD | 电子通用技术文档 |
+| [Reviewers_Guide.md](./docs/Reviewers_Guide.md) | SDRG/ADRG | 审评员指南编写 |
+| [aCRF_Guide.md](./docs/aCRF_Guide.md) | aCRF | 带注释病例报告表 |
+| [STF_Guide.md](./docs/STF_Guide.md) | STF | Study Tagging File |
+| [BIMO_Data_Guide.md](./docs/BIMO_Data_Guide.md) | BIMO | 生物研究监督数据 |
+| [ARM_Guide.md](./docs/ARM_Guide.md) | ARM | 分析结果元数据 |
+| [Analysis_Programs_Guide.md](./docs/Analysis_Programs_Guide.md) | 分析程序 | SAS/R 程序提交 |
 
 ---
 
@@ -300,43 +300,43 @@
 
 | 我想了解... | 去看哪个文档 |
 |------------|-------------|
-| 新药研发整体流程 | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) |
-| Protocol 是什么 | [Protocol_Tutorial.md](./Protocol_Tutorial.md) |
-| SAP 是什么 | [SAP_Tutorial.md](./SAP_Tutorial.md) |
-| CRF 怎么变成 SDTM | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) |
-| SDTM 各域有哪些字段 | [SDTM_Domain_Guide.md](./SDTM_Domain_Guide.md) |
-| ADaM 派生变量怎么算 | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) |
-| 什么是 Define.xml | [Define_XML_Guide.md](./Define_XML_Guide.md) |
-| 什么是 aCRF | [aCRF_Guide.md](./aCRF_Guide.md) |
-| 什么是 STF | [STF_Guide.md](./STF_Guide.md) |
-| 什么是 BIMO | [BIMO_Data_Guide.md](./BIMO_Data_Guide.md) |
-| 什么是 ARM | [ARM_Guide.md](./ARM_Guide.md) |
-| 分析程序怎么提交 | [Analysis_Programs_Guide.md](./Analysis_Programs_Guide.md) |
-| CSR 怎么写 | [CSR_TLFs_Guide.md](./CSR_TLFs_Guide.md) |
-| 审评员指南包含什么 | [Reviewers_Guide.md](./Reviewers_Guide.md) |
-| 提交包有哪些内容 | [Submission_Package_Guide.md](./Submission_Package_Guide.md) |
-| eCTD 是什么格式 | [eCTD_Guide.md](./eCTD_Guide.md) |
+| 新药研发整体流程 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) |
+| Protocol 是什么 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) |
+| SAP 是什么 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) |
+| CRF 怎么变成 SDTM | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) |
+| SDTM 各域有哪些字段 | [SDTM_Domain_Guide.md](./docs/SDTM_Domain_Guide.md) |
+| ADaM 派生变量怎么算 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
+| 什么是 Define.xml | [Define_XML_Guide.md](./docs/Define_XML_Guide.md) |
+| 什么是 aCRF | [aCRF_Guide.md](./docs/aCRF_Guide.md) |
+| 什么是 STF | [STF_Guide.md](./docs/STF_Guide.md) |
+| 什么是 BIMO | [BIMO_Data_Guide.md](./docs/BIMO_Data_Guide.md) |
+| 什么是 ARM | [ARM_Guide.md](./docs/ARM_Guide.md) |
+| 分析程序怎么提交 | [Analysis_Programs_Guide.md](./docs/Analysis_Programs_Guide.md) |
+| CSR 怎么写 | [CSR_TLFs_Guide.md](./docs/CSR_TLFs_Guide.md) |
+| 审评员指南包含什么 | [Reviewers_Guide.md](./docs/Reviewers_Guide.md) |
+| 提交包有哪些内容 | [Submission_Package_Guide.md](./docs/Submission_Package_Guide.md) |
+| eCTD 是什么格式 | [eCTD_Guide.md](./docs/eCTD_Guide.md) |
 
 ### 按术语查找
 
 | 缩写 | 全称 | 中文 | 文档 |
 |------|------|------|------|
-| Protocol | Clinical Trial Protocol | 临床试验方案 | [Protocol_Tutorial.md](./Protocol_Tutorial.md) |
-| SAP | Statistical Analysis Plan | 统计分析计划 | [SAP_Tutorial.md](./SAP_Tutorial.md) |
-| CRF | Case Report Form | 病例报告表 | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) |
-| aCRF | annotated CRF | 带注释病例报告表 | [aCRF_Guide.md](./aCRF_Guide.md) |
-| SDTM | Study Data Tabulation Model | 研究数据制表模型 | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) |
-| ADaM | Analysis Data Model | 分析数据模型 | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) |
-| ADSL | Subject-Level Analysis Dataset | 受试者级别分析数据集 | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) |
-| Define.xml | Data Definition File | 数据定义文件 | [Define_XML_Guide.md](./Define_XML_Guide.md) |
-| STF | Study Tagging File | 研究标记文件 | [STF_Guide.md](./STF_Guide.md) |
-| ARM | Analysis Results Metadata | 分析结果元数据 | [ARM_Guide.md](./ARM_Guide.md) |
-| BIMO | Bioresearch Monitoring | 生物研究监督 | [BIMO_Data_Guide.md](./BIMO_Data_Guide.md) |
-| TLFs | Tables, Listings, Figures | 表格、列表、图形 | [CSR_TLFs_Guide.md](./CSR_TLFs_Guide.md) |
-| CSR | Clinical Study Report | 临床研究报告 | [CSR_TLFs_Guide.md](./CSR_TLFs_Guide.md) |
-| eCTD | Electronic Common Technical Document | 电子通用技术文档 | [eCTD_Guide.md](./eCTD_Guide.md) |
-| SDRG | Study Data Reviewer's Guide | SDTM 审评员指南 | [Reviewers_Guide.md](./Reviewers_Guide.md) |
-| ADRG | Analysis Data Reviewer's Guide | ADaM 审评员指南 | [Reviewers_Guide.md](./Reviewers_Guide.md) |
+| Protocol | Clinical Trial Protocol | 临床试验方案 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) |
+| SAP | Statistical Analysis Plan | 统计分析计划 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) |
+| CRF | Case Report Form | 病例报告表 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) |
+| aCRF | annotated CRF | 带注释病例报告表 | [aCRF_Guide.md](./docs/aCRF_Guide.md) |
+| SDTM | Study Data Tabulation Model | 研究数据制表模型 | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) |
+| ADaM | Analysis Data Model | 分析数据模型 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
+| ADSL | Subject-Level Analysis Dataset | 受试者级别分析数据集 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
+| Define.xml | Data Definition File | 数据定义文件 | [Define_XML_Guide.md](./docs/Define_XML_Guide.md) |
+| STF | Study Tagging File | 研究标记文件 | [STF_Guide.md](./docs/STF_Guide.md) |
+| ARM | Analysis Results Metadata | 分析结果元数据 | [ARM_Guide.md](./docs/ARM_Guide.md) |
+| BIMO | Bioresearch Monitoring | 生物研究监督 | [BIMO_Data_Guide.md](./docs/BIMO_Data_Guide.md) |
+| TLFs | Tables, Listings, Figures | 表格、列表、图形 | [CSR_TLFs_Guide.md](./docs/CSR_TLFs_Guide.md) |
+| CSR | Clinical Study Report | 临床研究报告 | [CSR_TLFs_Guide.md](./docs/CSR_TLFs_Guide.md) |
+| eCTD | Electronic Common Technical Document | 电子通用技术文档 | [eCTD_Guide.md](./docs/eCTD_Guide.md) |
+| SDRG | Study Data Reviewer's Guide | SDTM 审评员指南 | [Reviewers_Guide.md](./docs/Reviewers_Guide.md) |
+| ADRG | Analysis Data Reviewer's Guide | ADaM 审评员指南 | [Reviewers_Guide.md](./docs/Reviewers_Guide.md) |
 
 ---
 
@@ -346,13 +346,13 @@
 
 | 天数 | 学习内容 | 文档 |
 |:---:|---------|------|
-| Day 1 | 建立整体认知 | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) |
-| Day 2 | 了解试验设计 | [Protocol_Tutorial.md](./Protocol_Tutorial.md) |
-| Day 3 | 了解统计规划 | [SAP_Tutorial.md](./SAP_Tutorial.md) |
-| Day 4 | 学习数据转换 | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) |
-| Day 5 | 深入 SDTM | [SDTM_Domain_Guide.md](./SDTM_Domain_Guide.md) |
-| Day 6 | 深入 ADaM | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) |
-| Day 7 | 了解提交要求 | [Submission_Package_Guide.md](./Submission_Package_Guide.md) |
+| Day 1 | 建立整体认知 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) |
+| Day 2 | 了解试验设计 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) |
+| Day 3 | 了解统计规划 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) |
+| Day 4 | 学习数据转换 | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) |
+| Day 5 | 深入 SDTM | [SDTM_Domain_Guide.md](./docs/SDTM_Domain_Guide.md) |
+| Day 6 | 深入 ADaM | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
+| Day 7 | 了解提交要求 | [Submission_Package_Guide.md](./docs/Submission_Package_Guide.md) |
 
 ### 学习技巧
 
