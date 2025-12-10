@@ -138,10 +138,11 @@ eCTD 提交包目录结构
 
 > **详细说明** → [Define.xml 完全指南](./Define_XML_Guide.md)
 
-### 4.4 aCRF（annotated CRF）
+### 4.4 CRF 与 aCRF
 
-- **内容**：在空白 CRF 上标注每个采集项对应的 SDTM 变量
-- **作用**：帮助审评员理解数据来源
+- **CRF**：病例报告表，临床试验原始数据采集表格 → [详见 CRF 教程](./CRF_Tutorial.md)
+- **aCRF**：在空白 CRF 上标注每个采集项对应的 SDTM 变量 → [详见 aCRF 指南](./aCRF_Guide.md)
+- **作用**：CRF 是数据源头，aCRF 帮助审评员理解数据来源
 
 ### 4.5 STF（Study Tagging Files）
 
@@ -229,6 +230,7 @@ eCTD 提交包目录结构
 | 想了解... | 阅读文档 |
 |----------|---------|
 | 新药研发全貌 | [Drug_Development_Data_Overview.md](./Drug_Development_Data_Overview.md) |
+| CRF 病例报告表 | [CRF_Tutorial.md](./CRF_Tutorial.md) |
 | SDTM/ADaM 转换流程 | [SDTM_ADaM_Tutorial.md](./SDTM_ADaM_Tutorial.md) |
 | SDTM 各域详细字段 | [SDTM_Domain_Guide.md](./SDTM_Domain_Guide.md) |
 | ADaM 分析数据模型 | [ADaM_Complete_Guide.md](./ADaM_Complete_Guide.md) |

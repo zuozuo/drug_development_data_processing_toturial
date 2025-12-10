@@ -180,6 +180,7 @@
 | 环节 | 文档 | 说明 |
 |-----|------|------|
 | **整体流程** | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) | 新药研发全景概述 |
+| **CRF** | [CRF_Tutorial.md](./docs/CRF_Tutorial.md) | 病例报告表，原始数据采集表格 |
 
 ### 第三阶段：SDTM 标准化
 
@@ -303,6 +304,7 @@
 | 新药研发整体流程 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) |
 | Protocol 是什么 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) |
 | SAP 是什么 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) |
+| CRF 是什么 | [CRF_Tutorial.md](./docs/CRF_Tutorial.md) |
 | CRF 怎么变成 SDTM | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) |
 | SDTM 各域有哪些字段 | [SDTM_Domain_Guide.md](./docs/SDTM_Domain_Guide.md) |
 | ADaM 派生变量怎么算 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
@@ -323,7 +325,7 @@
 |------|------|------|------|
 | Protocol | Clinical Trial Protocol | 临床试验方案 | [Protocol_Tutorial.md](./docs/Protocol_Tutorial.md) |
 | SAP | Statistical Analysis Plan | 统计分析计划 | [SAP_Tutorial.md](./docs/SAP_Tutorial.md) |
-| CRF | Case Report Form | 病例报告表 | [Drug_Development_Data_Overview.md](./docs/Drug_Development_Data_Overview.md) |
+| CRF | Case Report Form | 病例报告表 | [CRF_Tutorial.md](./docs/CRF_Tutorial.md) |
 | aCRF | annotated CRF | 带注释病例报告表 | [aCRF_Guide.md](./docs/aCRF_Guide.md) |
 | SDTM | Study Data Tabulation Model | 研究数据制表模型 | [SDTM_ADaM_Tutorial.md](./docs/SDTM_ADaM_Tutorial.md) |
 | ADaM | Analysis Data Model | 分析数据模型 | [ADaM_Complete_Guide.md](./docs/ADaM_Complete_Guide.md) |
